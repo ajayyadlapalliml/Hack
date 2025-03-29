@@ -1,5 +1,5 @@
 
-# 🛡️ Threat Tracer – AI-Powered Threat Detection from YouTube
+# 🛡️ Threat Tracer – AI-Powered Threat Detection
 
 **Threat Tracer** is an end-to-end AI pipeline that analyzes YouTube videos (or other media URLs) for potential security threats by transcribing speech, translating it to English, summarizing key information, and detecting suspicious keywords.
 
