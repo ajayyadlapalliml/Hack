@@ -38,7 +38,6 @@ Hack/
 ├── analyze.py              # Analyzes summary for threat keywords & sends alert
 ├── outputs/                # Stores all text output files
 ├── audio_files/            # Temporarily stores downloaded audio
-├── requirements.txt        # Python dependencies
 ```
 
 ---
@@ -54,8 +53,6 @@ cd threat-tracer
 python -m venv whisper-env
 .\whisper-env\Scripts activate  # On Windows
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ---
