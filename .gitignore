@@ -1,0 +1,4 @@
+whisper-env/ 
+__pycache__/ 
+outputs/ 
+audio_files/ 
