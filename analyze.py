@@ -83,7 +83,7 @@ def analyze_summary(summary_path):
             f"Top Words:\n" +
             "\n".join([f"- {word} ({count})" for word, count in top_words if word in SUSPECT_WORDS])
         )
-        send_email_alert("🚨 Suspect Alert Detected", f"{alert_body}\n\nSummary:\n{text}")
+        send_email_alert("🚨 Suspect Alert Detected", f"\n\nSummary:\n{text}")
 
 
     return analysis_result_file
