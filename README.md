@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Pipeline Overview
+## Pipeline Overview
 
 1. 🔗 **Input**: Paste a YouTube URL or media link
 2. 🧠 **Transcription**: Convert audio to text (Whisper)
