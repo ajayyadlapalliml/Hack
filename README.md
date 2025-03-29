@@ -3,7 +3,7 @@
 
 **Threat Tracer** is an end-to-end AI pipeline that analyzes YouTube videos (or other media URLs) for potential security threats by transcribing speech, translating it to English, summarizing key information, and detecting suspicious keywords.
 
-## 🚀 Features
+## 🚀 Features:
 
 - 🎙️ **Speech-to-Text Transcription** using OpenAI Whisper (via Hugging Face)
 - 🌐 **Translation** to English with Google Translate
