@@ -46,7 +46,7 @@ Hack/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ajayyadlapalliml/Hack.git
+git clone https://github.com/ajayyadlapalliml/threat-tracer.git
 cd threat-tracer
 
 # Create virtual environment
